@@ -1,17 +1,14 @@
 {
   "name": "allpaths",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This is am module for getting all the absolute paths of a given path to a working directory",
   "main": "allPaths.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andreGarvin/allpaths-js.git"
   },
   "author": "Andre Garvin <Yea Boi>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/andreGarvin/allpaths-js/issues"
   },
